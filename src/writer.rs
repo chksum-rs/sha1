@@ -8,7 +8,7 @@
 //!
 //! ```toml
 //! [dependencies]
-//! chksum-sha1 = { version = "0.0.0", features = ["writer"] }
+//! chksum-sha1 = { version = "0.1.0", features = ["writer"] }
 //! ```
 //!
 //! Alternatively, use the [`cargo add`](https://doc.rust-lang.org/cargo/commands/cargo-add.html) subcommand:
